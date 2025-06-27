@@ -1,27 +1,23 @@
 <div align="center">
-  <h1 style="color:#2A1458">Hi 🤝, I’m Sachin</h1>
-  <h3 style="color:#9B177E">
-    Sr. React Native Developer • Curiosity Driven • Tinkerer & Builder
-  </h3>
-</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=E8988A&center=true&vCenter=true&width=500&lines=Building+mobile+apps+with+React+Native;Working+with+Redux+%26+GraphQL;Exploring+AI+ecosystem+%7C+Absolute learner" alt="Typing SVG" />
-</p>
+## 👋 Hi, I’m Sachin  
+### Sr. React Native Developer • Curiosity Driven • Tinkerer & Builder
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpybGQ2N3g4djR3cGpmMXE5b3BoMHZhcnpoZjEzN3p0NTVmbjFyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" width="500px" alt="anime gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=E8988A&center=true&vCenter=true&width=500&lines=Building+mobile+apps+with+React+Native;Working+with+Redux+%26+GraphQL;Exploring+AI+ecosystem+%7C+Absolute+learner" alt="Typing SVG" />
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpybGQ2N3g4djR3cGpmMXE5b3BoMHZhcnpoZjEzN3p0NTVmbjFyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" width="500px" alt="anime gif" />
+
 </div>
 
 ---
 
 ## 💼 What I Do
 
-- **Build fast, beautiful apps** for iOS, Android, and the web ⚒️
-- **Lead projects** from ideas to App Store launch 🚀 
-- **Help teams grow** by mentoring and hiring new devs 🌱
-- **Fix performance issues** and make apps run smoother 🧈
-- **Work closely with teams** to create crash-free, fun experiences 🤝
+- ⚒️ Build fast, beautiful apps for iOS, Android, and the web  
+- 🚀 Lead projects from idea to App Store launch  
+- 🌱 Help teams grow by mentoring and hiring  
+- 🧈 Fix performance issues and make apps smooth  
+- 🤝 Collaborate with teams to deliver crash-free user experiences  
 
 ---
 
@@ -58,10 +54,10 @@
 
 ---
 
-
 ## 🦉 Stay Curious. Stay Awesome.
 
-> “Hard work is worthless for those that don’t believe in themselves 😉.” – **Naruto Uzumaki**
+> “Hard work is worthless for those that don’t believe in themselves 😉.”  
+> – **Naruto Uzumaki**
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlnd3NtcWhhMGNtb2xkYjR0MGE1b3JzaWNyNHpkcXpvcGJtb28ybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LEV3OJQG0XXnq/giphy.gif" width="500px" alt="anime gif" />
