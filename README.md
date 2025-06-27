@@ -1,34 +1,68 @@
-Hi 👋 My name is Sachin singh
-=============================
+<div align="center">
+  <h1 style="color:#276749">Hi 🤝, I’m Sachin</h1>
+  <h3 style="color:#2F855A">
+    Sr. React Native Developer • Curiosity Driven • Tinkerer & Builder
+  </h3>
+</div>
 
-React Native | Flutter | Node-JS Developer
-------------------------------------------
-
-I've been learning to code since three years
-
-* 🌍  I'm based in India
-* 🧠  I'm learning Full Stack app development.
-* ⚡  I love to learn new techs and create some great demos from them.
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2F855A&center=true&vCenter=true&width=500&lines=Building+mobile+apps+with+React+Native;Working+with+Redux+%26+GraphQL;Helping+teams+grow+%7C+Loving+anime" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250px" alt="anime gif" />
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/sachinsinghhere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/introvert_sachin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+## 💼 What I Do
 
-### Badges
+- **Build fast, beautiful apps** for iOS, Android, and the web  
+- **Lead projects** from ideas to App Store launch  
+- **Help teams grow** by mentoring and hiring new devs  
+- **Fix performance issues** and make apps run smoother  
+- **Work closely with teams** to create crash-free, fun experiences  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/sachinsinghhere"><img src="https://activity-graph.herokuapp.com/graph?username=sachinsinghhere&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🌿 My Tech Toolbox
 
-<a href="https://github.com/sachinsinghhere" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsinghhere&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-2F855A?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCB2C?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-2C7A7B?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachintop1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sachin-276749?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sachinsinghhere">
+    <img src="https://img.shields.io/badge/Medium-Blog-276749?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
+## 🦉 Stay Curious. Stay Awesome.
+
+> “Hard work is worthless for those that don’t believe in themselves 😉.” – **Naruto Uzumaki**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTlnd3NtcWhhMGNtb2xkYjR0MGE1b3JzaWNyNHpkcXpvcGJtb28ybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LEV3OJQG0XXnq/giphy.gif" width="400px" alt="anime gif" />
+</p>
