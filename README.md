@@ -5,7 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=E8988A&center=true&vCenter=true&width=500&lines=Building+mobile+apps+with+React+Native;Working+with+Redux+%26+GraphQL;Exploring+AI+ecosystem+%7C+Absolute+learner" alt="Typing SVG" />
 
+<div>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpybGQ2N3g4djR3cGpmMXE5b3BoMHZhcnpoZjEzN3p0NTVmbjFyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" width="500px" alt="anime gif" />
+</div>
 
 </div>
 
