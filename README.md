@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/sachintop1/">
     <img src="https://img.shields.io/badge/LinkedIn-Sachin-276749?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@sachinsinghhere">
+  <a href="https://medium.com/@curioussachin">
     <img src="https://img.shields.io/badge/Medium-Blog-276749?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
